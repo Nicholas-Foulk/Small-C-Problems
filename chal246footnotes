@@ -1,0 +1,10 @@
+There are 1200 mAh in the batteries
+
+20mA per LED 
+
+if we have lets say 4 hours, we can only use 300mAh, and then the max LEDs used is 15 X 5, since you can have 5 in series
+
+But if we have 1 hour, we can use 1200mAh and then we can use 60 X 5 = 300 since 5 in series, and 60 parallel lines
+
+
+

@@ -1,0 +1,8 @@
+compile: 	
+	gcc -Wall -I/usr/include/pcap PCAP1.c -lpcap
+
+
+clean:
+	rm -rf *o a.out	
+	rm -rf *o pca
+	rm -rf *o pcap
